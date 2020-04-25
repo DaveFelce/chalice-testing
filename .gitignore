@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# IDEs
+*.nik
+.rsyncignore
+*.sublime-*
+*.vscode
+.idea/
+.idea/*
+.idea
+
+# Environments
+env
+
+# Mac files
+.DS_Store
+
+# Env files
+.env
+
+# Dev links
+shared
+
+# Coverage artifacts
+institution/.coverage
+.coverage.*
+
+# Tests
+.pytest_cache/
+.gitignore.orig
